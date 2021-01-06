@@ -59,38 +59,56 @@ section{
 
 .section3{
     background-color:#F8F9FC;
+    padding-top: 110px;
 }
 
 .color4{
     color: darkslateblue;
     font-size: 40px;
     text-align: center;
+    padding-bottom: 90px;
+    
 }
 
 .color5{
     color: salmon;
 }
 
-.box{
-    
-    width: 22%;
-    float: left;
-    margin-left: 4%;
-    padding-left: 5%;
-    
+.box {
+    width: 27%;
+    margin-left: 2%;
+    padding-left: 2%;
+    border: 10px solid white;
 }
+
+.box-wrapper{
+    width: 1117px;
+    margin: 0 auto;
+    }
 
 .box-layout{
     box-shadow: 5px 5px 5px gray;
-    height: 55%;
+    height: 70%;
     border-radius: 10px;
 
+}
+
+.r{
+    float: left;
 }
 
 .image-class{
     width: 100%;
     
     
+}
+
+.working-inquiry{
+    background-color: #FFFFFF;
+}
+
+.center-image{
+    width: 70px;
 }
 
 
