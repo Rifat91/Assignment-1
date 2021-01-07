@@ -129,12 +129,11 @@ section{
 .color7{
     font-size: 50px;
     color:white;
-    text-align: center;
     padding-top: 220px;
-    padding-right: 500px;
+    margin-left: 330px;
 }
 
-.background-image a{
+#link1{
     text-decoration: none;
     background-image: linear-gradient( tomato, salmon);
     padding: 20px 38px;
@@ -142,10 +141,12 @@ section{
     color: white;
     font-weight: 700;
     margin-left: 1030px;
-    
+    margin-top: -55px;  
+    position: absolute;
     
    }
 
+  
    .color8{
     color: slategray;
     text-align: center;
